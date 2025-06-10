@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitRepos\\Hangman\\hangmantest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5D349A-77D5-4338-AA55-B6F8A4F590D6}|hangmantest\\hangmantest.csproj|c:\\gitrepos\\hangman\\hangmantest\\hangmantest\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5D349A-77D5-4338-AA55-B6F8A4F590D6}|hangmantest\\hangmantest.csproj|solutionrelative:hangmantest\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5D349A-77D5-4338-AA55-B6F8A4F590D6}|hangmantest\\hangmantest.csproj|C:\\GitRepos\\Hangman\\hangmantest\\hangmantest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5D349A-77D5-4338-AA55-B6F8A4F590D6}|hangmantest\\hangmantest.csproj|solutionrelative:hangmantest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5D349A-77D5-4338-AA55-B6F8A4F590D6}|hangmantest\\hangmantest.csproj|C:\\GitRepos\\Hangman\\hangmantest\\hangmantest\\internetgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5D349A-77D5-4338-AA55-B6F8A4F590D6}|hangmantest\\hangmantest.csproj|solutionrelative:hangmantest\\internetgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5D349A-77D5-4338-AA55-B6F8A4F590D6}|hangmantest\\hangmantest.csproj|C:\\GitRepos\\Hangman\\hangmantest\\hangmantest\\wordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5D349A-77D5-4338-AA55-B6F8A4F590D6}|hangmantest\\hangmantest.csproj|solutionrelative:hangmantest\\wordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5D349A-77D5-4338-AA55-B6F8A4F590D6}|hangmantest\\hangmantest.csproj|C:\\GitRepos\\Hangman\\hangmantest\\hangmantest\\iwordgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5D349A-77D5-4338-AA55-B6F8A4F590D6}|hangmantest\\hangmantest.csproj|solutionrelative:hangmantest\\iwordgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5D349A-77D5-4338-AA55-B6F8A4F590D6}|hangmantest\\hangmantest.csproj|C:\\GitRepos\\Hangman\\hangmantest\\hangmantest\\localgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5D349A-77D5-4338-AA55-B6F8A4F590D6}|hangmantest\\hangmantest.csproj|solutionrelative:hangmantest\\localgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\GitRepos\\Hangman\\hangmantest\\hangmantest\\App.cs",
+              "RelativeDocumentMoniker": "hangmantest\\App.cs",
+              "ToolTip": "C:\\GitRepos\\Hangman\\hangmantest\\hangmantest\\App.cs",
+              "RelativeToolTip": "hangmantest\\App.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAowIcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:07:15.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitRepos\\Hangman\\hangmantest\\hangmantest\\Program.cs",
+              "RelativeDocumentMoniker": "hangmantest\\Program.cs",
+              "ToolTip": "C:\\GitRepos\\Hangman\\hangmantest\\hangmantest\\Program.cs",
+              "RelativeToolTip": "hangmantest\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:07:15.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InternetGeneratorService.cs",
+              "DocumentMoniker": "C:\\GitRepos\\Hangman\\hangmantest\\hangmantest\\InternetGeneratorService.cs",
+              "RelativeDocumentMoniker": "hangmantest\\InternetGeneratorService.cs",
+              "ToolTip": "C:\\GitRepos\\Hangman\\hangmantest\\hangmantest\\InternetGeneratorService.cs",
+              "RelativeToolTip": "hangmantest\\InternetGeneratorService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:07:15.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWordGeneratorService.cs",
+              "DocumentMoniker": "C:\\GitRepos\\Hangman\\hangmantest\\hangmantest\\IWordGeneratorService.cs",
+              "RelativeDocumentMoniker": "hangmantest\\IWordGeneratorService.cs",
+              "ToolTip": "C:\\GitRepos\\Hangman\\hangmantest\\hangmantest\\IWordGeneratorService.cs",
+              "RelativeToolTip": "hangmantest\\IWordGeneratorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:07:15.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WordGenerator.cs",
+              "DocumentMoniker": "C:\\GitRepos\\Hangman\\hangmantest\\hangmantest\\WordGenerator.cs",
+              "RelativeDocumentMoniker": "hangmantest\\WordGenerator.cs",
+              "ToolTip": "C:\\GitRepos\\Hangman\\hangmantest\\hangmantest\\WordGenerator.cs",
+              "RelativeToolTip": "hangmantest\\WordGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:07:15.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocalGeneratorService.cs",
+              "DocumentMoniker": "C:\\GitRepos\\Hangman\\hangmantest\\hangmantest\\LocalGeneratorService.cs",
+              "RelativeDocumentMoniker": "hangmantest\\LocalGeneratorService.cs",
+              "ToolTip": "C:\\GitRepos\\Hangman\\hangmantest\\hangmantest\\LocalGeneratorService.cs",
+              "RelativeToolTip": "hangmantest\\LocalGeneratorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:07:15.265Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
